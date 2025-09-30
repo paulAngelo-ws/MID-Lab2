@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+ 
+body {
+    background-color: #efebf7;
+}
+
+.Container {
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.tcont {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fefefe;
+}
+
+.bar {
+    padding-bottom: 1px;
+    background-color: #6341b2;
+}
+
+
+.textBox {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #fefefe;
+}
+
+.radioButton {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #fefefe;
+}
+
+.checkBox {
+    margin-bottom: 5px;
+    padding: 10px;
+    background-color: #fefefe;
+}
+
+.Submit {
+    margin-top: 5px;
+    padding: 5px;
+    color: #fffffe;
+    background-color: #673ab7;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+input {
+    margin: 5px;
+}
